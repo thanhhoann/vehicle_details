@@ -1,0 +1,82 @@
+[
+  {
+    "owner_name": "John Doe",
+    "registration_number": "KA01AB1234",
+    "vehicle_class": "Car",
+    "model": "Toyota Corolla",
+    "registration_date": "2021-01-01",
+    "RC_status": "Active"
+  },
+  {
+    "owner_name": "Jane Smith",
+    "registration_number": "KA02CD5678",
+    "vehicle_class": "Bike",
+    "model": "Honda Activa",
+    "registration_date": "2020-02-15",
+    "RC_status": "Active"
+  },
+  {
+    "owner_name": "Michael Johnson",
+    "registration_number": "MH01EF9012",
+    "vehicle_class": "Car",
+    "model": "Hyundai i20",
+    "registration_date": "2022-04-10",
+    "RC_status": "Active"
+  },
+  {
+    "owner_name": "Samantha Lee",
+    "registration_number": "GJ01GH3456",
+    "vehicle_class": "Truck",
+    "model": "Tata 407",
+    "registration_date": "2019-11-23",
+    "RC_status": "Active"
+  },
+  {
+    "owner_name": "David Johnson",
+    "registration_number": "DL01IJ7890",
+    "vehicle_class": "Car",
+    "model": "Maruti Swift",
+    "registration_date": "2020-07-07",
+    "RC_status": "Inactive"
+  },
+  {
+    "owner_name": "Amanda Smith",
+    "registration_number": "UP01KL2345",
+    "vehicle_class": "Bike",
+    "model": "Hero Splendor",
+    "registration_date": "2021-03-18",
+    "RC_status": "Active"
+  },
+  {
+    "owner_name": "Chris Martin",
+    "registration_number": "RJ01MN6789",
+    "vehicle_class": "Car",
+    "model": "Ford EcoSport",
+    "registration_date": "2022-02-28",
+    "RC_status": "Active"
+  },
+  {
+    "owner_name": "Emily Watson",
+    "registration_number": "TN01OP1234",
+    "vehicle_class": "Bike",
+    "model": "Bajaj Pulsar",
+    "registration_date": "2020-06-11",
+    "RC_status": "Inactive"
+  },
+  {
+    "owner_name": "Ryan Lee",
+    "registration_number": "MH01QR5678",
+    "vehicle_class": "Car",
+    "model": "Mahindra XUV500",
+    "registration_date": "2019-12-25",
+    "RC_status": "Active"
+  },
+  {
+    "owner_name": "Sophia Patel",
+    "registration_number": "KA01ST9012",
+    "vehicle_class": "Bike",
+    "model": "TVS Apache",
+    "registration_date": "2021-09-09",
+    "RC_status": "Active"
+  }
+]
