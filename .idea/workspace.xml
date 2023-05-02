@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80f3e9b4-437f-4922-9207-a3327f2c1d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mock_data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DSA /Zero_2_Mastery_DSA/1. Introduction/1. How To Succeed In This Course.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DSA /Zero_2_Mastery_DSA/10. Data Structures Trees/1. Trees Introduction.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DSA /Zero_2_Mastery_DSA/10. Data Structures Trees/12. Solution remove().mp4" beforeDir="false" />
@@ -2198,6 +2197,7 @@
       <change beforePath="$PROJECT_DIR$/../taskbox" beforeDir="false" afterPath="$PROJECT_DIR$/../taskbox" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todo-app" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todo-typescript" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-typescript" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Screenshots/Screen Recording 2021-12-30 at 5.09.46 PM.mov" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Screenshots/Screen Recording 2021-12-30 at 5.27.03 PM.mov" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Screenshots/Screen Recording 2021-12-30 at 5.47.15 PM.mov" beforeDir="false" />
@@ -2367,7 +2367,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682245929216</updated>
       <workItem from="1682245930723" duration="2071000" />
-      <workItem from="1682958284546" duration="8252000" />
+      <workItem from="1682958284546" duration="8568000" />
     </task>
     <servers />
   </component>

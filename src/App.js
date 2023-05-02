@@ -56,7 +56,7 @@ function App() {
     return (<>
         <Stack w={'100vw'} h={'100vh'}>
             <Center w={'full'} p={'3rem'}>
-                <Heading color={'#22223b'}>
+                <Heading p={'0.5rem'} color={'#22223b'}>
                     <Highlight query={'Vehicle Registration Details'}
                                styles={{px: '2', py: '1', rounded: 'full', bg: 'orange.100'}}>
                         Find Your Vehicle Registration Details Online
